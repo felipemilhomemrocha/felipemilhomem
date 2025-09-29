@@ -22,6 +22,7 @@ Repositório para o README do meu perfil no GitHub
 ## 📫 Conecte-se Comigo
 
 https://www.linkedin.com/in/felipe-milhomem-12863a356
+
 https://mail.google.com/mail/u/0/#inbox
 
 ## 🎯 Objetivos Atuais
